@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu me chamo Júlia 👋
 
-<!--
-**juuhfrdev/juuhfrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-freire-de-souza-0693b3204)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/julia-freire-de-souza-2/)
 
-Here are some ideas to get you started:
+![Julia Freire GitHub stats](https://github-readme-stats.vercel.app/api?username=juuhfrdev&show_icons=true&theme=ocean_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juuhfrdev&size_weight=0.5&count_weight=0.5)
+
+### Estou cursando engenharia de computação e tenho técnico em automação industrial 📝
+
+#### Sou apaixonada por tecnologia e espero me desenvolver mais a cada dia para ser uma ótima profissional
+
+## Email para contato:
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliafrsouzaa@gmail.com)
