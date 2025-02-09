@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">  
-<a href="juliafrsouzaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="juliafrsouzaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-juliafrsouzaa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliafrsouzaa@gmail.com"(mailto:juliafrsouzaa@gmail.com)</a>
 </div> 
  
 ### Main skills:
