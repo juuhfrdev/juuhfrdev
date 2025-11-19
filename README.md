@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7306f7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED2B13&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7306f7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Julia+Freire;I+study+Computer+Engineering+at+ENIAC;Hope+you+like+my+profile!+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg) 
 
